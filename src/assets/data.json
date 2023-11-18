@@ -4,42 +4,42 @@
         {
             "title": "SEO Master",
             "description": "HTML and CSS Project",
-            "URL": "",
+            "URL": "https://github.com/ayashadevikar/SEO-Master.git",
             "imgSrc": "../images/seo-master.png"
         },
 
         {
             "title": "Crypto Market",
             "description": "HTML and CSS Project",
-            "URL": "",
+            "URL": "https://github.com/ayashadevikar/Crypto-Market.git",
             "imgSrc": "../images/crypto-market.png"
         },
 
         {
             "title": "Fashion Hub",
             "description": "HTML and CSS Project",
-            "URL": "",
+            "URL": "https://github.com/ayashadevikar/Fashion-Hub.git",
             "imgSrc": "../images/fashion-hub.png"
         },
 
         {
             "title": "Headset",
             "description": "HTML and CSS Project",
-            "URL": "",
+            "URL": "https://github.com/ayashadevikar/HeadSet.git",
             "imgSrc": "../images/headset.png"
         },
 
         {
             "title": "Doctor",
             "description": "HTML and CSS Project",
-            "URL": "",
+            "URL": "https://github.com/ayashadevikar/Doctor.git",
             "imgSrc": "../images/doctor.png"
         },
 
         {
             "title": "Justice",
             "description": "HTML and CSS Project",
-            "URL": "t",
+            "URL": "https://github.com/ayashadevikar/Justice.git",
             "imgSrc":"../images/justice.png"
         },
 
@@ -47,20 +47,21 @@
         {
             "title": "Credit Card Landing Page",
             "description": "HTML and CSS Project",
-            "URL": "",
+            "URL": "https://github.com/ayashadevikar/Credit-Card-Landing-Page.git",
             "imgSrc": "../images/credit-card.png"
         },
 
         {
             "title": "Hosting Landing Page",
             "description": "HTML and CSS Project",
-            "URL": "t",
+            "URL": "https://github.com/ayashadevikar/Hosting-Landing-Page.git",
             "imgSrc": "../images/hosting.png"
         },
 
         {
             "title": "Game Landing Page",
             "description": "HTML and CSS Project",
+            "URL": "https://github.com/ayashadevikar/Game-Landing-Page.git",
             "imgSrc": "../images/game.png"
         },
 
@@ -74,14 +75,14 @@
         {
             "title": "Beats Landing Page",
             "description": "HTML and CSS Project",
-            "URL": "",
+            "URL": "https://github.com/ayashadevikar/Beats-Landing-Page.git",
             "imgSrc": "../images/beats.png"
         },
 
         {
             "title": "Data Analytics Landing Page",
             "description": "HTML and CSS Project",
-            "URL": "",
+            "URL": "https://github.com/ayashadevikar/Data-Analytics-Landing-Page.git",
             "imgSrc": "../images/data-analytics.png"
         },
 
@@ -117,42 +118,42 @@
             "title": "Facebook Clone",
             "description": "Using TailwindCSS",
             "URL": "https://github.com/ayashadevikar/Facebook-App.git",
-            "imgSrc": "../images/data-analytics.png"
+            "imgSrc": "../images/facebook.png"
         },
 
         {
             "title": "Weather App",
             "description": "Using Html, CSS and JavaScript",
-            "URL": "",
-            "imgSrc": ""
+            "URL": "https://github.com/ayashadevikar/JavaScript-Weather-App.git",
+            "imgSrc": "../images/js-weather.png"
         },
 
         {
             "title": "Circles",
             "description": "Using Html, CSS and JavaScript",
-            "URL": "",
+            "URL": "https://github.com/ayashadevikar/Create-circles-on-webpage.git",
             "imgSrc": "../images/dom.png"
         },
 
         {
             "title": "Background Change",
             "description": "Using Html, CSS and JavaScript",
-            "URL": "",
-            "imgSrc": ""
+            "URL": "https://github.com/ayashadevikar/Random-Color-Changer.git",
+            "imgSrc": "../images/bg-color"
         },
 
 
         {
             "title": "CalcuLator App",
             "description": "Using Html, CSS and JavaScript",
-            "URL": "",
+            "URL": "https://github.com/ayashadevikar/Calculator-App.git",
             "imgSrc": "../images/calculator.png"
         },
 
         {
             "title": "Counter App",
             "description": "Using Html, CSS and JavaScript",
-            "URL": "",
+            "URL": "https://github.com/ayashadevikar/Counter-App.git",
             "imgSrc": "../images/counter.png"
         },
 
@@ -166,7 +167,7 @@
         {
             "title": "Rock, Paper and Scissor Game",
             "description": "This is React App",
-            "URL": "",
+            "URL": "https://github.com/ayashadevikar/Rock-Paper-and-Scissor-Game.git",
             "imgSrc": "../images/game.png"
         },
 
@@ -187,7 +188,7 @@
         {
             "title": "MealDB App",
             "description": "This is React App",
-            "URL": "https://github.com/ayashadevikar/Movie-App.git",
+            "URL": "https://github.com/ayashadevikar/MealDB.git",
             "imgSrc": "../images/meal.png"
         },
 
@@ -237,7 +238,7 @@
             "title": "Crypto App",
             "description": "This is React App",
             "URL": "https://github.com/ayashadevikar/Crypto-App.git",
-            "imgSrc": ""
+            "imgSrc": "../images/crypto.png"
         },
 
        
