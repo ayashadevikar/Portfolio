@@ -216,14 +216,14 @@
         {
             "title": "Weather App",
             "description": "This is React App",
-            "URL": "https://github.com/ayashadevikar/PWSkill-Clone.git",
+            "URL": "https://github.com/ayashadevikar/Weather-App.git",
             "imgSrc": "../images/react-weather.png"
         },
 
         {
             "title": "News App",
             "description": "This is React App",
-            "URL": "https://github.com/ayashadevikar/PWSkill-Clone.git",
+            "URL": "https://github.com/ayashadevikar/News-App.git",
             "imgSrc": "../images/news.png"
         },
 
@@ -246,7 +246,7 @@
             "title": "MERN CRUD App",
             "description": "This is React App",
             "URL": "https://github.com/ayashadevikar/MERN-CRUD-APP.git",
-            "imgSrc": ""
+            "imgSrc": "../images/mern-crud.png"
         }
 
 
