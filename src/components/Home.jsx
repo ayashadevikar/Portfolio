@@ -94,9 +94,8 @@ const Home = () => {
                    />
 
                    <div className='flex gap-x-4'>
-                        <a href='mailto:ayashadevikar8@gmail.com' 
-                        className='bg-light-orange rounded-md p-2 px-4 text-white'>Hire Me</a>
-                        <a href="#work" className='flex' >
+                        <a href='mailto:ayashadevikar8@gmail.com' className='bg-light-orange rounded-md p-2 px-4 text-white'>Hire Me</a>
+                      <a href="#work" className='flex' >
                             Projects <BsArrowUpRight />
                         </a>
                         
