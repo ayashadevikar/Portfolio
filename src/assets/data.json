@@ -245,14 +245,14 @@
             "title": "Gym Website",
             "description": "This is Gym React Website",
             "URL": "https://github.com/ayashadevikar/Gym-Website",
-            "imgSrc": "../images/shopping.png"
+            "imgSrc": ""
         },
 
         {
-            "title": "Marevl App",
+            "title": "Marvel App",
             "description": "This is React App",
             "URL": "https://github.com/ayashadevikar/Marvel-App",
-            "imgSrc": "../images/shopping.png"
+            "imgSrc": ""
         }
 
        

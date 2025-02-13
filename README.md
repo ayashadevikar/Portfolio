@@ -1,6 +1,6 @@
 ## Portfolio
 
-[Live Link](https://portfolio-drab-seven-67.vercel.app/)
+[Live Link]()
 
 # Getting Started with Create React App
 
@@ -72,3 +72,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+https://portfolio-drab-seven-67.vercel.app/

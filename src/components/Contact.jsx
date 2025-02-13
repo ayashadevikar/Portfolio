@@ -13,6 +13,11 @@ const Contact = () => {
         e.preventDefault();
         console.log(name, email, message);
          toast.success("Message Sent");
+
+         // Clear the form fields
+           setName("");
+           setEmail("");
+           setMessage("");
    }
 
   return (
