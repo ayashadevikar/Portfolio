@@ -1,0 +1,265 @@
+{
+    "projects": [
+
+        {
+            "title": "SEO Master",
+            "description": "HTML and CSS Project",
+            "URL": "https://github.com/ayashadevikar/SEO-Master.git",
+            "imgSrc": "../images/seo-master.png"
+        },
+
+        {
+            "title": "Crypto Market",
+            "description": "HTML and CSS Project",
+            "URL": "https://github.com/ayashadevikar/Crypto-Market.git",
+            "imgSrc": "../images/crypto-market.png"
+        },
+
+        {
+            "title": "Fashion Hub",
+            "description": "HTML and CSS Project",
+            "URL": "https://github.com/ayashadevikar/Fashion-Hub.git",
+            "imgSrc": "../images/fashion-hub.png"
+        },
+
+        {
+            "title": "Headset",
+            "description": "HTML and CSS Project",
+            "URL": "https://github.com/ayashadevikar/HeadSet.git",
+            "imgSrc": "../images/headset.png"
+        },
+
+        {
+            "title": "Doctor",
+            "description": "HTML and CSS Project",
+            "URL": "https://github.com/ayashadevikar/Doctor.git",
+            "imgSrc": "../images/doctor.png"
+        },
+
+        {
+            "title": "Justice",
+            "description": "HTML and CSS Project",
+            "URL": "https://github.com/ayashadevikar/Justice.git",
+            "imgSrc":"../images/justice.png"
+        },
+
+
+        {
+            "title": "Credit Card Landing Page",
+            "description": "HTML and CSS Project",
+            "URL": "https://github.com/ayashadevikar/Credit-Card-Landing-Page.git",
+            "imgSrc": "../images/credit-card.png"
+        },
+
+        {
+            "title": "Hosting Landing Page",
+            "description": "HTML and CSS Project",
+            "URL": "https://github.com/ayashadevikar/Hosting-Landing-Page.git",
+            "imgSrc": "../images/hosting.png"
+        },
+
+        {
+            "title": "Game Landing Page",
+            "description": "HTML and CSS Project",
+            "URL": "https://github.com/ayashadevikar/Game-Landing-Page.git",
+            "imgSrc": "../images/game.png"
+        },
+
+        {
+            "title": "Real Estate Landing Page",
+            "description": "HTML and CSS Project",
+            "URL": "https://github.com/ayashadevikar/Real-Estate-Landing-Page",
+            "imgSrc": "../images/real-estate.png"
+        },
+
+        {
+            "title": "Beats Landing Page",
+            "description": "HTML and CSS Project",
+            "URL": "https://github.com/ayashadevikar/Beats-Landing-Page.git",
+            "imgSrc": "../images/beats.png"
+        },
+
+        {
+            "title": "Data Analytics Landing Page",
+            "description": "HTML and CSS Project",
+            "URL": "https://github.com/ayashadevikar/Data-Analytics-Landing-Page.git",
+            "imgSrc": "../images/data-analytics.png"
+        },
+
+        {
+            "title": "Visual Studio Clone",
+            "description": "Using TailwindCSS",
+            "URL": "https://github.com/ayashadevikar/VS-Clone.git",
+            "imgSrc": "../images/vs.png"
+        },
+
+        {
+            "title": "RODE Clone",
+            "description": "Using TailwindCSS",
+            "URL": "https://github.com/ayashadevikar/RODE-Clone.git",
+            "imgSrc": "../images/rode.png"
+        },
+
+        {
+            "title": "Microsoft Clone",
+            "description": "Using TailwindCSS",
+            "URL": "https://github.com/ayashadevikar/Microsoft-UI-Clone.git",
+            "imgSrc": "../images/microsoft.png"
+        },
+
+        {
+            "title": "NetFlix Clone",
+            "description": "Using TailwindCSS",
+            "URL": "https://github.com/ayashadevikar/Netflix.git",
+            "imgSrc": "../images/netflix.png"
+        },
+
+        {
+            "title": "Facebook Clone",
+            "description": "Using TailwindCSS",
+            "URL": "https://github.com/ayashadevikar/Facebook-App.git",
+            "imgSrc": "../images/facebook.png"
+        },
+
+        {
+            "title": "Weather App",
+            "description": "Using Html, CSS and JavaScript",
+            "URL": "https://github.com/ayashadevikar/JavaScript-Weather-App.git",
+            "imgSrc": "../images/js-weather.png"
+        },
+
+        {
+            "title": "Circles",
+            "description": "Using Html, CSS and JavaScript",
+            "URL": "https://github.com/ayashadevikar/Create-circles-on-webpage.git",
+            "imgSrc": "../images/dom.png"
+        },
+
+        {
+            "title": "Background Change",
+            "description": "Using Html, CSS and JavaScript",
+            "URL": "https://github.com/ayashadevikar/Random-Color-Changer.git",
+            "imgSrc": "../images/bg-color.png"
+        },
+
+
+        {
+            "title": "CalcuLator App",
+            "description": "Using Html, CSS and JavaScript",
+            "URL": "https://github.com/ayashadevikar/Calculator-App.git",
+            "imgSrc": "../images/calculator.png"
+        },
+
+        {
+            "title": "Counter App",
+            "description": "Using Html, CSS and JavaScript",
+            "URL": "https://github.com/ayashadevikar/Counter-App.git",
+            "imgSrc": "../images/counter.png"
+        },
+
+        {
+            "title": "TODO App",
+            "description": "This is React App",
+            "URL": "https://github.com/ayashadevikar/ToDo-App.git",
+            "imgSrc": "../images/crud.png"
+        },
+
+        {
+            "title": "Rock, Paper and Scissor Game",
+            "description": "This is React App",
+            "URL": "https://github.com/ayashadevikar/Rock-Paper-and-Scissor-Game.git",
+            "imgSrc": "../images/game.png"
+        },
+
+        {
+            "title": "Pokemon App",
+            "description": "This is React App",
+            "URL": "https://github.com/ayashadevikar/Pokemon-App.git",
+            "imgSrc": "../images/pokemon.png"
+        },
+
+        {
+            "title": "Movie App",
+            "description": "This is React App",
+            "URL": "https://github.com/ayashadevikar/Movie-App.git",
+            "imgSrc": "../images/movie.png"
+        },
+
+        {
+            "title": "MealDB App",
+            "description": "This is React App",
+            "URL": "https://github.com/ayashadevikar/MealDB.git",
+            "imgSrc": "../images/meal.png"
+        },
+
+        {
+            "title": "React Router DOM",
+            "description": "This is React App",
+            "URL": "https://github.com/ayashadevikar/React-Router-Dom.git",
+            "imgSrc": "../images/router.png"
+        },
+
+        {
+            "title": "Context API",
+            "description": "This is React App",
+            "URL": "https://github.com/ayashadevikar/PWSkill-Clone.git",
+            "imgSrc": "../images/context-api.png"
+        },
+
+        {
+            "title": "PW Skill Clone",
+            "description": "This is React App",
+            "URL": "https://github.com/ayashadevikar/PWSkill-Clone.git",
+            "imgSrc": "../images/pw.png"
+        },
+
+        {
+            "title": "Weather App",
+            "description": "This is React App",
+            "URL": "https://github.com/ayashadevikar/Weather-App.git",
+            "imgSrc": "../images/react-weather.png"
+        },
+
+        {
+            "title": "News App",
+            "description": "This is React App",
+            "URL": "https://github.com/ayashadevikar/News-App.git",
+            "imgSrc": "../images/news.png"
+        },
+
+        {
+            "title": "Shopping Cart App",
+            "description": "This is React App",
+            "URL": "https://github.com/ayashadevikar/Shopping-Cart.git",
+            "imgSrc": "../images/shopping.png"
+        },
+
+        {
+            "title": "Crypto App",
+            "description": "This is React App",
+            "URL": "https://github.com/ayashadevikar/Crypto-App.git",
+            "imgSrc": "../images/crypto.png"
+        },
+
+        {
+            "title": "Gym Website",
+            "description": "This is Gym React Website",
+            "URL": "https://github.com/ayashadevikar/Gym-Website",
+            "imgSrc": "../images/shopping.png"
+        },
+
+        {
+            "title": "Marevl App",
+            "description": "This is React App",
+            "URL": "https://github.com/ayashadevikar/Marvel-App",
+            "imgSrc": "../images/shopping.png"
+        }
+
+       
+      
+
+
+
+        
+    ]
+}
