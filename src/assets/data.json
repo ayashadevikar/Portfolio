@@ -102,7 +102,7 @@
 
         {
             "title": "Microsoft Clone",
-            "description": "Using TailwindCSS",
+            "description": "Using Html and TailwindCSS",
             "URL": "https://github.com/ayashadevikar/Microsoft-UI-Clone.git",
             "imgSrc": "../images/microsoft.png"
         },
@@ -253,7 +253,34 @@
             "description": "This is React App",
             "URL": "https://github.com/ayashadevikar/Marvel-App",
             "imgSrc": "../images/marvel.png"
+        },
+
+       
+        
+        {
+            "title": "E - Learning Website",
+            "description": "This is E - Learning React Website",
+            "URL": "https://github.com/ayashadevikar/React-e-learning",
+            "imgSrc": "../images/e-learning.png"
+        },
+
+        {
+            "title": "Book Store App",
+            "description": "This is MERN App",
+            "URL": "https://github.com/ayashadevikar/Books-Store",
+            "imgSrc": "../images/book.png"
+        },
+
+        {
+            "title": "Employee Information App",
+            "description": "This is Dot Net App",
+            "URL": "https://github.com/ayashadevikar/Employee-Information",
+            "imgSrc": "../images/emp.png"
         }
+
+
+
+        
 
        
       
